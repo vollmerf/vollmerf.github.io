@@ -1,24 +1,19 @@
-# SphereContour
-Program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. Additional files include data files used in the paper. 
+# Software by vollmerf
 
-## Citation
-This repostory contains C, Pascal, and MATLAB/Octave implementations of the algorithm presented in:
+## Open Software Projects
 
-__Vollmer, F.W., 1995. C program for automatic contouring of spherical 
-orientation data using a modified Kamb method: Computers & Geosciences, 
-v. 21, n. 1, p. 31-49.__
+*HyperContour*
 
-which should be cited by publications using this code, algorithm, or derivative 
-works, to produce figures or other content. 
+* [HyperContour](https://vollmerf.github.io/hypercontour/)
 
-## License
-Please see the LICENSE and CITATION files for license restrictions and citation 
-information.
+* [SphereContour](https://vollmerf.github.io/spherecontour/)
 
-## Related Software
-The program __Orient__ by this author is free software that includes this functionality, and numerous additional options. It runs on Macintosh, 
-Windows, and Linux platforms, and can be downloaded for free from: 
+## Free Software Projects
 
-[www.frederickvollmer.com](https://www.frederickvollmer.com/orient/)
+* [Antevs](https://www.frederickvollmer.com/antevs/)
+
+* [EllipseFit](https://www.frederickvollmer.com/ellipsefit/)
+
+* [Orient](https://www.frederickvollmer.com/orient/)is for analyzing directional data, data that can be described by an axis or direction, or by a position on a sphere. Examples include latitude and longitude, star locations, bedding planes, fold axes, fault slip directions, paleomagnetic vectors, glacial striations, crystallographic axes, current flow directions, and whale migration paths. Kamb. Orient is used by many geologists, but is developed to be flexible for use in other disciplines requiring orientation data plotting and analysis. 
 
 
