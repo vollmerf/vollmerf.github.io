@@ -1,4 +1,6 @@
-# Frederick W. Vollmer
+# vollmerf
+
+Software projects maintained by F.W. Vollmer.
 
 ## Open Software Projects
 
