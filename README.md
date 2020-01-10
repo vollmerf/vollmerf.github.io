@@ -1,4 +1,4 @@
-# vollmerf
+# Frederick W. Vollmer
 
 ## Open Software Projects
 
