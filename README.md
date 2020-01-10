@@ -2,17 +2,9 @@
 
 ## Open Software Projects
 
-* [SphereContour](https://vollmerf.github.io/spherecontour/) Program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. Reference: 
+* [SphereContour](https://vollmerf.github.io/spherecontour/) Program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
 
-__Vollmer, F.W., 1995. C program for automatic contouring of spherical 
-orientation data using a modified Kamb method: Computers & Geosciences, 
-v. 21, n. 1, p. 31-49.__
-
-* [HyperContour](https://vollmerf.github.io/hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/Phi and Elliott polar plots. Reference:
-
-__Vollmer, F.W., 2018. Automatic contouring of geological fabric and finite 
-strain data on the unit hyperboloid. Computers & Geosciences, 
-https://doi.org/10.1016/j.cageo.2018.03.006__
+* [HyperContour](https://vollmerf.github.io/hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/Phi and Elliott polar plots. 
 
 ## Free Software Projects
 
