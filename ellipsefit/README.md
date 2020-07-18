@@ -5,7 +5,7 @@ EllipseFit is an integrated program for geologic fabric and finite strain analys
 
 ---
 
-![Void](images/VoidFit_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Void](images/VoidFit_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Map](images/StrainMap_200.png)
 
 ---
@@ -16,7 +16,7 @@ Best-fit ellipse calculations include shape-matrix eigenvalue, mean radial lengt
 
 ---
 
-![Polar](images/Polar_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Polar](images/Polar_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![RPhi](images/RPhi_200.png)
 
 ---
@@ -45,16 +45,14 @@ Ellipsoid Plot Major functionalities include:
 * Robin and Shan ellipsoid calculations with error analysis
 * Strain from displacements, strain probe, and stretch plots
 
----
-
-![Nadai](images/Nadai_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Shade](images/Shade_200.png)
-
----
-
 EllipseFit is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
 Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
+
+---
+
+![Nadai](images/Nadai_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Shade](images/Shade_200.png)
 
 ---
 
