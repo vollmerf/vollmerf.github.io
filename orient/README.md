@@ -8,23 +8,24 @@ Orient is for plotting and analyzing data that can be described by an axis or di
 ---
 
 ![Cluster](images/SPKambCluster_200.png)
-![Plaeomag](PaleoMag_200.png)
+
+![Paleomag](PaleoMag_200.png)
 
 ---
 
 Spherical projection functionalities include:
 
-* Schmidt net (equal-area) spherical projections
-* Stereonet (Wulff) spherical projections
-* Upper, lower, and dual hemisphere projections
-* Modified Kamb contouring of density on the sphere
-* Density, MUD, and probability contour intervals
-* Eigenvector and mean vector calculations
+* Schmidt net (equal-area) projection
+* Stereonet (equal angle) projection
+* Upper, lower, and dual hemisphere 
+* Modified Kamb contouring 
+* Density, MUD, and probability density
+* Eigenvector and mean vectors
 * von Mises-Fisher, Kent, Watson, and Bingham cones
 * Bootstrap cones and statistics
 * Data, net, and projection rotations
 * Best fit to conical data with statistics
-* Kinematic and dynamic fault and shear zone analysis
+* Kinematic and dynamic fault analysis
 * Axis, vector, and girdle cluster analysis
 * Spherical kernel density estimation
 
@@ -33,7 +34,7 @@ Additional functionalities include:
 * Circular histograms and frequency polygons
 * Triangular eigenvector PGR fabric plots
 * UTM, latitude, longitude conversions
-* Digitizing directional data from maps and projections
+* Digitizing directional data
 * Fault quarter dip and rake histograms
 * Fault moment tensor triangle plots
 * Trend surface analysis
@@ -50,13 +51,13 @@ Orient is natively compiled on Macintosh, Windows, and Linux platforms, and does
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 
 
-## Orient 1.5.0 Downloads
+## Orient 1.12.0 Downloads
 
 * [Linux](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz)
 * [Macintosh](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg)
 * [Windows](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip) 
 
-## Orient 1.5.0 SHA256
+## Orient 3.12.0 SHA256
 
 SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
@@ -67,6 +68,7 @@ SHA256 file checksums are provided in case you or you network administrator desi
 ---
 
 ![Folds](images/SPBearValley2_200.png)
+
 ![Faults](Fig01-04_200.png)
 
 --- 
