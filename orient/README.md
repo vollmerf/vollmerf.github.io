@@ -17,19 +17,18 @@ Orient is for plotting and analyzing data that can be described by an axis or di
 
 Spherical projection functionalities include:
 
-* Schmidt net (equal-area) projection
-* Stereonet (equal angle) projection
+* Schmidt net, equal-area projection
+* Stereonet, equal angle projection
 * Upper, lower, and dual hemisphere 
 * Modified Kamb contouring 
-* Density, MUD, and probability density
+* Density, MUD, and probability contours
 * Eigenvector and mean vectors
-* von Mises-Fisher, Kent, Watson, and Bingham cones
+* Fisher, Kent, Watson, and Bingham cones
 * Bootstrap cones and statistics
 * Data, net, and projection rotations
-* Best fit to conical data with statistics
+* Conical data fitting with statistics
 * Kinematic and dynamic fault analysis
 * Axis, vector, and girdle cluster analysis
-* Spherical kernel density estimation
 
 Additional functionalities include:
 
@@ -40,15 +39,16 @@ Additional functionalities include:
 * Fault quarter dip and rake histograms
 * Fault moment tensor triangle plots
 * Trend surface analysis
-* Google Earth, StraboSpot, and Global CMT Project integration	
-* Orientation fields and structural domain analysis
+* Google Maps and Google Earth integration	
+* StraboSpot and Global CMT Project import	
+* Orientation fields and domain analysis
 * Terzaghi scan line weight correction
 * Ternary compositional plots
 * Triangular kernel density estimation
 
-Orient is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
+Orient is written by Frederick W. Vollmer. It is free, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
-Orient is natively compiled on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. 
+Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. 
 
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 
