@@ -5,7 +5,7 @@ Antevs is a user friendly professional tool for correlating natural time-series.
 
 Antevs was developed for the correlation of proglacial varve sequences (Rayburn and Vollmer, 2013), but includes standard techniques for matching tree-rings, and can convert files between varve and tree-ring formats. It includes routines for reading the Velmex UniSlide digital readout used for digitizing tree-ring measurements. Missing data due to broken or incomplete cores is a common problem in natural data, so Antevs includes interactive procedures to correlate such sequences. 
 
-Antevs undergoes extensive testing by varve and tree-ring researchers, including undergraduates, working in John Rayburn's varve and tree-ring laboratory at SUNY New Paltz. Antevs is compiled natively for Macintosh macOS, Windows, and Linux, and does not require any additional libraries or interpreters. 
+Antevs undergoes extensive testing by varve and tree-ring researchers, including undergraduates, working in John Rayburn's varve and tree-ring laboratory at SUNY New Paltz. Antevs is compiled natively for Macintosh, Windows, and Linux, and does not require any additional libraries or interpreters. 
 
 Antevs is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
@@ -30,7 +30,9 @@ Modified from Rayburn and Vollmer, 2013.
 * [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg)
 * [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
 
-## Antevs 1.5.0 SHA 256
+## Antevs 1.5.0 SHA256
+
+SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
 * [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
 * [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
@@ -39,4 +41,6 @@ Modified from Rayburn and Vollmer, 2013.
 --- 
 
 [vollmerf home](../)
+
+18 July 2020
 
