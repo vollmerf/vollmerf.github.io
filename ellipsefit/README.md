@@ -27,7 +27,7 @@ Graphical displays of ellipsoid data include Flinn, Ramsay, and Nadai-Hsu plots.
 
 ---
 
-![Displace](images/Displace_200t.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Displace](images/Displace_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Wellman](images/Wellman_200.png)
 
 ---
