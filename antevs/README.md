@@ -1,9 +1,13 @@
-## Antevs
-![Antevs](images/AntevsIcon_128.png)
+## Antevs 
+![](images/AntevsIcon_128.png)
 
-Antevs is a program for analyzing varve, tree-ring, and other time-series data. Fourier analysis, and other curve fitting algorithms, are used to remove trends and to normalize the data for comparison. The resulting data series are correlated using cross-correlation techniques to identify potential matches. 
+Antevs is a user friendly professional tool for correlating natural time-series. These arise where a value is measured through time at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Antevs is designed to work with such natural time-series, but can be applied to other discrete time-series. Correlation is done by comparing an undated times-series, the unknown, to a previously dated series, the chronology.
 
-Antevs is free software, with the stipulation that citation be given for usage as noted in the user manuals. It is available in compiled form for Windows, macOS, and Linux platforms. Antevs is written and maintained by Frederick W. Vollmer. 
+Antevs was developed for the correlation of proglacial varve sequences (Rayburn and Vollmer, 2013), however it includes standard techniques for matching tree-rings, and can convert files between varve and tree-ring formats. It includes routines for reading the Velmex UniSlide digital readout used for digitizing tree-ring measurements. Missing data due to broken or incomplete cores is a common problem in natural data, so Antevs includes interactive procedures to correlate such sequences. 
+
+Antevs undergoes extensive testing by varve and tree-ring researchers, including undergraduates working on research projects in John Rayburn's varve and tree-ring laboratory at SUNY New Paltz. Antevs is compiled natively for Macintosh macOS, Windows, and Linux, and does not require any additional libraries or interpreters. 
+
+Antevs is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. Please read the accompanying *User Manual** file for license and additional information. 
 
 ---
 
