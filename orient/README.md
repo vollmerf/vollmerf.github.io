@@ -9,6 +9,8 @@ Orient is for plotting and analyzing data that can be described by an axis or di
 
 ![Cluster](images/SPKambCluster_200.png)
 
+---
+
 ![Paleomag](PaleoMag_200.png)
 
 ---
@@ -38,7 +40,7 @@ Additional functionalities include:
 * Fault quarter dip and rake histograms
 * Fault moment tensor triangle plots
 * Trend surface analysis
-* Google Earth, StraboSpot, and Global CMT Project integration
+* Google Earth, StraboSpot, and Global CMT Project integration	
 * Orientation fields and structural domain analysis
 * Terzaghi scan line weight correction
 * Ternary compositional plots
@@ -68,6 +70,8 @@ SHA256 file checksums are provided in case you or you network administrator desi
 ---
 
 ![Folds](images/SPBearValley2_200.png)
+
+---
 
 ![Faults](Fig01-04_200.png)
 
