@@ -8,10 +8,7 @@ Orient is for plotting and analyzing data that can be described by an axis or di
 ---
 
 ![Cluster](images/SPKambCluster_200.png)
-
----
-
-![Paleomag](PaleoMag_200.png)
+![Paleomag](images/PaleoMag_200.png)
 
 ---
 
@@ -70,10 +67,7 @@ SHA256 file checksums are provided in case you or you network administrator desi
 ---
 
 ![Folds](images/SPBearValley2_200.png)
-
----
-
-![Faults](Fig01-04_200.png)
+![Faults](images/Fig01-04_200.png)
 
 --- 
 
