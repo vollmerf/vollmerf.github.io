@@ -1,4 +1,4 @@
-## Antevs 
+# Antevs 
 ![Antevs](images/AntevsIcon_128.png)
 
 Antevs is a user friendly professional tool for correlating natural time-series. These arise where a value is measured through time at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Correlation is done by comparing an undated times-series to a previously dated chronology.
@@ -13,7 +13,7 @@ Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.c
 
 ---
 
-### Example Correlation
+## Example Correlation
 ![Example](images/Figure_04_web.png)
 
 (A) Hudson and Connecticut River Valley raw (top) and detrended (bottom) North American Varve Chronology data (NAVC, see link on sidebar). The raw data is detrended using a 16 term Fourier filter to remove long wavelength variations, and standardized to account for thickness variations between proxmal and distal varves.
@@ -24,13 +24,13 @@ Modified from Rayburn and Vollmer, 2013.
 
 ---
 
-### Antevs 1.5.0 Downloads
+## Antevs 1.5.0 Downloads
 
 * [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz)
 * [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg)
 * [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
 
-### Antevs 1.5.0 SHA 256
+## Antevs 1.5.0 SHA 256
 
 * [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
 * [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
