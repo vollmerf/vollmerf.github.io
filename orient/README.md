@@ -5,6 +5,13 @@ Orient is a fast, easy to use, professional spherical projection and directional
 
 Orient is for plotting and analyzing data that can be described by an axis or direction in space. Examples include bedding planes, faults and slip directions, fold axes, paleomagnetic vectors, glacial striations, current flow directions, crystallographic axes, earthquake epicenters, cosmic ray arrival directions, comet orbital planes, and animal migration paths. Orient has been written to apply to a wide variety data types, however many examples come from geology, which requires extensive manipulation and analysis of orientation data. Data input formats include longitude and latitude, azimuth and altitude, declination and inclination, trend and plunge, strike and dip, dip and dip direction, and others.
 
+---
+
+![Cluster](images/SPKambCluster_200.png)
+![Plaeomag](PaleoMag_200.png)
+
+---
+
 Spherical projection functionalities include:
 
 * Schmidt net (equal-area) spherical projections
@@ -56,6 +63,11 @@ SHA256 file checksums are provided in case you or you network administrator desi
 * [Linux](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz.sha256) 
 * [Macintosh](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg.sha256) 
 * [Windows](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip.sha256) 
+
+---
+
+![Folds](images/SPBearValley2_200.png)
+![Faults](Fig01-04_200.png)
 
 --- 
 
