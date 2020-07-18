@@ -22,10 +22,22 @@ Modified from Rayburn and Vollmer, 2013.
 
 ---
 
-### Links
+### Antevs 1.5.0 Downloads
 
-* [Antevs 1.5.0 Mac](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) 
+* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz) 
+* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.dmg) 
+* [Mac](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) 
+* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
 * [User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
+
+### Antevs 1.5.0 SHA
+
+* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
+* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.dmg.sha256) 
+* [Mac](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
+* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
+* [User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
+
 
 --- 
 
