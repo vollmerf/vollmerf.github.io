@@ -1,8 +1,9 @@
-![Antevs](images/AntevsBanner.png)
+# Antevs
+
+[Antevs](images/AntevsBanner.png)
 
 ---
 
-# Antevs
 
 [Antevs](https://www.frederickvollmer.com/antevs/) is a program for analyzing varve, tree-ring, and other time-series data. Fourier analysis, and other curve fitting algorithms, are used to remove trends and to normalize the data for comparison. The resulting data series are correlated using cross-correlation techniques to identify potential matches. 
 
