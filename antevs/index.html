@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Antevs</title>
+<meta charset="UTF-8" />
+<meta name="author" content="Frederick Vollmer" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="../styles_child.css" />
+</head>
+
+<body>
+<table class="main">
+<!-- begin header row -->
+<tr>
+<td colspan="2">
+<img src="images/AntevsBanner.png" width="540" height="180" alt="Antevs"/>
+</td>
+</tr>
+<!-- end header row -->
+<!-- begin body row -->
+<tr>
+<!-- begin menu column -->
+<td class="menu">
+<h1>Downloads&nbsp;&nbsp;</h1>
+<h2>Antevs 1.5.0</h2>
+<a href="download.php?file=Antevs_1.5.0_Mac.dmg">Macintosh</a><br />
+<a href="download.php?file=Antevs_1.5.0_Win.zip">Windows</a><br />
+<a href="download.php?file=Antevs_1.5.0_Lin.tgz">Linux</a><br />
+<a href="download/Antevs_User_Manual.pdf">User Manual</a><br />
+SHA:&nbsp;<a href="download.php?file=Antevs_1.5.0_Mac.dmg.sha256">M</a>|<a href="download.php?file=Antevs_1.5.0_Win.zip.sha256">W</a>|<a href="download.php?file=Antevs_1.5.0_Lin.tgz.sha256">L</a><br />
+<h2>Antevs 1.4.1</h2>
+<a href="download.php?file=Antevs_1.4.1_Mac.dmg">Macintosh</a><br />
+<a href="download.php?file=Antevs_1.4.1_Win.zip">Windows</a><br />
+<a href="download.php?file=Antevs_1.4.1_Lin.tgz">Linux</a><br />
+<h2>Antevs 1.4.0</h2>
+<a href="download.php?file=Antevs_1.4.0_Mac.dmg">Macintosh</a><br />
+<a href="download.php?file=Antevs_1.4.0_Win.zip">Windows</a><br />
+<a href="download.php?file=Antevs_1.4.0_Lin.tgz">Linux</a><br />
+<h2>Antevs 1.3.6</h2>
+<a href="download.php?file=Antevs_1.3.6_Mac.dmg">Macintosh</a><br />
+<a href="download.php?file=Antevs_1.3.6_Win.zip">Windows</a><br />
+<a href="download.php?file=Antevs_1.3.6_Lin.tgz">Linux</a><br />
+<br />
+<h1>Links</h1>
+<a href="../index.html">Home</a><br />
+<a href="../orient/index.html">Orient</a><br />
+<a href="../ellipsefit/index.html">EllipseFit</a><br />
+<a href="../pictracker/index.html">PicTracker</a><br />
+<a href="../donate/index.html">Donate</a><br />
+<br />
+<a href="http://eos.tufts.edu/varves/">North American Glacial Varve Project</a><br />
+</td> 
+<!-- end menu column -->
+<!-- begin content column -->
+<td class="content"> 
+<h2>Antevs</h2>
+<p>
+Antevs (Automated Numerical Time-series Evaluation of Varying Sequences) is a user friendly professional tool for correlating time-series. Time-series arise in situations where a value is measured through time, generally at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Antevs is designed primarily to work with such natural time-series, but can be applied to other discrete time-series as well. Antevs is designed to aid in correlation of time-series, where an undated times-series, the <i>unknown</i>, is compared to a previously dated series, the <i>chronology</i>, to determine if they overlap in time and to date the unknown series.
+</p>
+<p>
+Antevs was developed for the correlation of proglacial varve sequences (Rayburn and Vollmer, 2013), however it includes standard techniques for matching tree-rings, and can convert files between varve and tree-ring formats, such as Tucson decadal files. It includes routines for reading the Velmex UniSlide digital readout used for tree-ring measurements, making it a one step solution for digitizing and correlating tree-rings. A common problem with natural time-series is missing data due to broken or incomplete cores. Antevs includes interactive procedures to correlate sequences that contain such missing values. A sequence can be subdivided into multiple segments which can be interactively shifted while searching for a match.
+</p>
+<p>
+Antevs is designed to be user friendly and easy to use, with powerful analytical tools under the hood. It undergoes extensive testing by varve and tree-ring researchers, including undergraduates working on research projects in John Rayburn's varve and tree-ring laboratory at SUNY New Paltz. Antevs is developed on Macintosh OS X and is compiled natively for Macintosh OS X, Windows, and Linux. It is not cross-compiled or interpreted, and does not require any additional libraries or interpreters. Currently most testing is done on OS X 10, Windows 7, and Linux Ubuntu 14. User input is appreciated to improve operation on various platforms.
+</p>
+<p>Antevs is written by <a href="http://www2.newpaltz.edu/~vollmerf/">Frederick W. Vollmer</a>. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution to the program and author. This program is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. Please read the accompanying <a href="download/Antevs_1.3.6_User_Manual.pdf">User Manual</a> file for license and additional information.
+</p>
+<h2>Example Correlation</h2>
+<!-- begin example table -->
+<table>
+<tr>
+<td class="example">
+<img class="figure" src="images/Figure_04_web.png" width="544" height="449" alt="Correlogram" />
+</td>
+<td class="caption">
+A) Hudson and Connecticut River Valley raw (top) and detrended (bottom) North American Varve Chronology data (NAVC, see link on sidebar). The raw data is detrended using a 16 term Fourier filter to remove long wavelength variations, and standardized to account for thickness variations between proxmal and distal varves.<br /><br />
+B) Correlogram produced by cross-correlation of the detrended data in A. The correlogram shows a spike corresponding to a match at 0 years offset, with a correlation of r = 0.64, and significance t = 9.57.<br /><br />
+Modified from Rayburn and Vollmer, 2013.
+</td>
+</tr>
+</table>
+<!-- begin example table -->
+</td> 
+<!-- end content column -->
+</tr> 
+<!-- end body row -->
+<!-- begin footer row -->
+<tr>
+<td colspan="2">
+<hr />
+<p class="homelink">
+<a href="http://www.frederickvollmer.com/index.html">Software Home</a>
+</p>
+<p class="copyright">
+<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.frederickvollmer.com%2Fantevs%2F">Validated HTML 5</a><br />
+Updated 16 Aug 2019<br />
+<a href="../index.html">F.W. Vollmer &copy; 2011-2019</a>
+</p>
+</td>
+</tr>
+<!-- end footer row -->
+</table>
+
+</body>
+</html>
