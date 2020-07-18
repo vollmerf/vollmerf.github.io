@@ -1,5 +1,5 @@
 # Antevs 
-![](images/AntevsIcon_128.png)
+![Antevs](images/AntevsIcon_128.png)
 
 Antevs is a user friendly professional tool for correlating natural time-series. These arise where a value is measured through time at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Antevs is designed to work with such natural time-series, but can be applied to other discrete time-series. Correlation is done by comparing an undated times-series, the unknown, to a previously dated series, the chronology.
 
@@ -22,15 +22,13 @@ Modified from Rayburn and Vollmer, 2013.
 
 ---
 
-### Antevs Downloads
+### Antevs 1.5.0 Downloads
 
-Antevs 1.5.0 | SHA 256
------------- | -------------
-[Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz) | [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
-[Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) 
-[Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
-[Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
-[User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
+* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz) [SHA 256](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
+* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) [SHA 256](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
+*
+[Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) [SHA 256](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
+[User * Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
 
 --- 
 
