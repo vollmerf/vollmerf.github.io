@@ -32,7 +32,7 @@ Graphical displays of ellipsoid data include Flinn, Ramsay, and Nadai-Hsu plots.
 
 ---
 
-Ellipsoid Plot Major functionalities include:
+EllipseFit functionalities include:
 
 * Digitizing points, quadrilaterals, ellipses, and shapes
 * Fry-type analysis with void-fitting and error analysis
