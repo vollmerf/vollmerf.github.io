@@ -1,4 +1,4 @@
-## Antevs 
+# Antevs 
 ![](images/AntevsIcon_128.png)
 
 Antevs is a user friendly professional tool for correlating natural time-series. These arise where a value is measured through time at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Antevs is designed to work with such natural time-series, but can be applied to other discrete time-series. Correlation is done by comparing an undated times-series, the unknown, to a previously dated series, the chronology.
@@ -22,22 +22,15 @@ Modified from Rayburn and Vollmer, 2013.
 
 ---
 
-### Antevs 1.5.0 Downloads
+### Antevs Downloads
 
-* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz) 
-* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.dmg) 
-* [Mac](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) 
-* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
-* [User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
-
-### Antevs 1.5.0 SHA
-
-* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
-* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.dmg.sha256) 
-* [Mac](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
-* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
-* [User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
-
+Antevs 1.5.0 | SHA 256
+------------ | -------------
+[Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz) | [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
+[Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg) 
+[Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip) 
+[Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
+[User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) 
 
 --- 
 
