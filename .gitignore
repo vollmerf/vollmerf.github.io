@@ -1,0 +1,27 @@
+# gitignore for Antevs
+
+# exclude build and executables
+lib/**
+Antevs.app
+Antevs.exe
+Antevs.dbg
+Antevs.dSYM
+
+# exclude source papers, temp files, etc
+**/backup/**
+**/extra/**
+**/temp/**
+**/old/**
+**/depreciated/**
+**/unused/**
+**/sources/**
+**/bugs/**
+*.bak
+*.zip
+
+# exclude non-build resource, release and website files
+release/**
+resource/**
+
+# exclude Mac junk
+**/.DS_Store
