@@ -29,7 +29,6 @@ Modified from Rayburn and Vollmer, 2013.
 The current version of Antevs is 1.6.0.
 
 * [Linux 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Lin.tgz)
-* [Linux 1.6.0 sha256](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Lin.tgz.sha256) 
 * [Macintosh 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Mac.dmg)
 * [Windows 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Win.zip)
 * [Linux 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz)
@@ -43,9 +42,9 @@ sha256 file checksums are provided in case you or you network administrator desi
 * [Linux 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Lin.tgz.sha256) 
 * [Macintosh 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Mac.dmg.sha256) 
 * [Windows 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.0_Win.zip.sha256) 
-* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
-* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
-* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
+* [Linux 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Lin.tgz.sha256) 
+* [Macintosh 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
+* [Windows 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
 
 --- 
 
