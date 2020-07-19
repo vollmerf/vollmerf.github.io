@@ -66,7 +66,7 @@ The current version of EllipseFit is 3.8.0.
 
 ## EllipseFit sha256
 
-SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
+sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
 * [Linux 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Lin.tgz.sha256) 
 * [Macintosh 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg.sha256) 
