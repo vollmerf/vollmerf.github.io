@@ -30,7 +30,7 @@ The following software is free, with the stipulation that citation be given for 
 
 The following are open source software. Citation should be given for their usage, see the accompanying CITATION.md files. 
 
-[SphereContour](https://vollmerf.github.io/spherecontour/) C, Pascal, and MATLAB/Octave versions of a program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
+[SphereContour](spherecontour/) C, Pascal, and MATLAB/Octave versions of a program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
 
 [HyperContour](https://vollmerf.github.io/hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
 
