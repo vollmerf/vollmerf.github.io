@@ -18,9 +18,9 @@ Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.c
 ## Example Correlation
 ![Example](images/Figure_04_web.png)
 
-(A) Hudson and Connecticut River Valley raw (top) and detrended (bottom) North American Varve Chronology data (NAVC, see link on sidebar). The raw data is detrended using a 16 term Fourier filter to remove long wavelength variations, and standardized to account for thickness variations between proxmal and distal varves.
+(A) Hudson and Connecticut River Valley raw (top) and detrended (bottom) North American Varve Chronology (NAVC) data. The raw data is detrended using a 16 term Fourier filter to remove long wavelength variations, and standardized to account for thickness variations between proxmal and distal varves.
 
-(B) Correlogram produced by cross-correlation of the detrended data in A. The correlogram shows a spike corresponding to a match at 0 years offset, with a correlation of r = 0.64, and significance t = 9.57.
+(B) Correlogram produced by cross-correlation of the detrended data. The correlogram shows a spike corresponding to a match at 0 years offset, with a correlation of r = 0.64, and significance t = 9.57.
 
 Modified from Rayburn and Vollmer, 2013.
 
