@@ -56,19 +56,21 @@ Please read the accompanying [EllipseFit User Manual](https://www.frederickvollm
 
 ---
 
-## EllipseFit 3.8.0 Downloads
+## EllipseFit Downloads
 
-* [Linux](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Lin.tgz)
-* [Macintosh](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg)
-* [Windows](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Win.zip) 
+The current version of EllipseFit is 3.8.0.
 
-## EllipseFit 3.8.0 SHA256
+* [Linux 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Lin.tgz)
+* [Macintosh 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg)
+* [Windows 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Win.zip) 
+
+## EllipseFit sha256
 
 SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
-* [Linux](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Lin.tgz.sha256) 
-* [Macintosh](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg.sha256) 
-* [Windows](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Win.zip.sha256) 
+* [Linux 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Lin.tgz.sha256) 
+* [Macintosh 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg.sha256) 
+* [Windows 3.8.0](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Win.zip.sha256) 
 
 --- 
 

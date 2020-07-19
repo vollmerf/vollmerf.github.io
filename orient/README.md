@@ -49,19 +49,21 @@ Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does
 
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 
-## Orient 3.12.0 Downloads
+## Orient Downloads
 
-* [Linux](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz)
-* [Macintosh](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg)
-* [Windows](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip) 
+The current version of Orient is 3.12.0.
 
-## Orient 3.12.0 SHA256
+* [Linux 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz)
+* [Macintosh 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg)
+* [Windows 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip) 
+
+## Orient sha256
 
 SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
-* [Linux](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz.sha256) 
-* [Macintosh](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg.sha256) 
-* [Windows](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip.sha256) 
+* [Linux 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz.sha256) 
+* [Macintosh 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg.sha256) 
+* [Windows 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip.sha256) 
 
 ---
 
