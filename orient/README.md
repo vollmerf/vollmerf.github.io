@@ -59,7 +59,7 @@ The current version of Orient is 3.12.0.
 
 ## Orient sha256
 
-SHA256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
+sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
 * [Linux 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz.sha256) 
 * [Macintosh 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg.sha256) 
