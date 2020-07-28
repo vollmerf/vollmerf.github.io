@@ -14,7 +14,12 @@ As a teacher at a primarily undergraduate institution, and an additional objecti
 
 ---
 
-[Software](software/) - Free and open source software projects.
+[Software](software/) - Free and open source software projects
+[Orient](orient/) - Spherical Data Analysis Software
+[EllipseFit](ellipsefit/) - Strain and Fabric Analysis Software
+[Antevs](antevs/) - Natural Time-Series Analysis Software
+[spherescontour] (spherecontour/) - MATLAB/Octave, C, and Pascal code from Vollmer, 1995
+[hypercontour] (hypercontour/) - MATLAB/Octave code from Vollmer, 2018
 
 ---
 
