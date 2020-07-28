@@ -1,39 +1,25 @@
 # vollmerf
 
-Software projects written and maintained by Frederick W. Vollmer.
+![DocV](images/docv_craters_800x260.jpg)
 
-## Free Software
+Dr. Frederick W. Vollmer
 
-The following software is free, with the stipulation that citation be given for usage as noted in the user manuals. These are available in compiled form for Windows, macOS, and Linux platforms.
+Professor
 
----
+Department of Geology, SUNY New Paltz 
 
-![Orient](images/Orient3_128n.png)
+## About Me
 
-[Orient](orient/) is for analyzing data that can be described by an axis or direction, or by a position on a sphere. Examples include latitude and longitude, star locations, bedding planes, fold axes, fault slip directions, paleomagnetic vectors, glacial striations, crystallographic axes, current flow directions, and animal migration paths.
+I am a quantitative field-based structural geologist who is fascinated by the dynamic processes of mountain building, faulting, folding, and rock deformation, processes driven by plate tectonics and manifested by uplift, earthquakes and volcanism. 
 
----
+Beginning in the early 1980s, I began using computers to objectively quantify structural data sets, which consist of the three dimensional orientations and locations of lines, planes, objects, and the measurement of rock fabric and strain. Over the years the software evolved to address many additional problems of interest to field geologists, and to attach statistical significance to the analyses.
 
-![EllipseFit](images/EllipseFitIcon_128.png)
-
-[EllipseFit](ellipsefit/) is an integrated program for two and three-dimensional geologic fabric and finite strain analysis. It includes routines to digitize and analyze collections of points, lines, ellipses, and shapes to determine mean fabric and finite strain ellipses from oriented photographs.
+As a teacher at a primarily undergraduate institution, and an additional objective is to make it approachable to students, and allow data visualization, in addition to being useful to researchers. The software is free, some is open source, with the goal to be completely open source. 
 
 ---
 
-![Antevs](images/AntevsIcon_128.png)
-
-[Antevs](antevs/) is a program for analyzing varve, tree-ring, and other time-series data. Fourier analysis, and other curve fitting algorithms, are used to remove trends and to normalize the data for comparison. The resulting data series are correlated using cross-correlation techniques to identify potential matches. 
-
---- 
-
-## Open Software
-
-The following are open source software. Citation should be given for their usage, see the accompanying CITATION.md files. 
-
-[SphereContour](spherecontour/) C, Pascal, and MATLAB/Octave versions of a program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
-
-[HyperContour](hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
+[Software](software/) Free and open source software projects.
 
 ---
 
-19 Jul 2020
+29 Jul 2020
