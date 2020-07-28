@@ -23,6 +23,6 @@ As a teacher at a primarily undergraduate institution, an additional objective i
 
 ---
 
-![DocV](images/docv_craters_800x260_1.jpg)
+![DocV](images/P1000826cu_200_1.jpg)
 
 29 Jul 2020
