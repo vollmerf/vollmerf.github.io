@@ -18,6 +18,6 @@ As a teacher at a primarily undergraduate institution, and an additional objecti
 
 ---
 
-![DocV](images/docv_craters_800x260_2.jpg)
+![DocV](images/docv_craters_800x260_1.jpg)
 
 29 Jul 2020
