@@ -18,8 +18,8 @@ As a teacher at a primarily undergraduate institution, and an additional objecti
 [Orient](orient/) - Spherical Data Analysis Software  
 [EllipseFit](ellipsefit/) - Strain and Fabric Analysis Software  
 [Antevs](antevs/) - Natural Time-Series Analysis Software  
-[SpheresContour] (spherecontour/) - MATLAB/Octave, C, and Pascal code from Vollmer, 1995  
-[HyperContour] (hypercontour/) - MATLAB/Octave code from Vollmer, 2018
+[SpheresContour](spherecontour/) - MATLAB/Octave, C, and Pascal code from Vollmer, 1995  
+[HyperContour](hypercontour/) - MATLAB/Octave code from Vollmer, 2018
 
 ---
 
