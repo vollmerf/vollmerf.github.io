@@ -4,6 +4,8 @@ Dr. Frederick W. Vollmer
 Professor  
 Department of Geology, SUNY New Paltz 
 
+---
+
 # About Me
 
 I am a quantitative field-based structural geologist who is fascinated by the dynamic processes of mountain building, faulting, folding, and rock deformation, processes driven by plate tectonics and manifested by uplift, earthquakes and volcanism. 
