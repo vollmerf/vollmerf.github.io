@@ -1,7 +1,9 @@
-![DocV](images/docv_craters_800x260.jpg)
+# vollmerf
 
-Dr. Frederick W. Vollmer \
-Professor \
+![DocV](images/P1000826cu_200.jpg)
+
+Dr. Frederick W. Vollmer /
+Professor /
 Department of Geology, SUNY New Paltz 
 
 # About Me
