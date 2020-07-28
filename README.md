@@ -1,14 +1,10 @@
-# vollmerf
-
 ![DocV](images/docv_craters_800x260.jpg)
 
-Dr. Frederick W. Vollmer
-
-Professor
-
+Dr. Frederick W. Vollmer \
+Professor \
 Department of Geology, SUNY New Paltz 
 
-## About Me
+# About Me
 
 I am a quantitative field-based structural geologist who is fascinated by the dynamic processes of mountain building, faulting, folding, and rock deformation, processes driven by plate tectonics and manifested by uplift, earthquakes and volcanism. 
 
@@ -18,7 +14,7 @@ As a teacher at a primarily undergraduate institution, and an additional objecti
 
 ---
 
-[Software](software/) Free and open source software projects.
+[Software](software/) - Free and open source software projects.
 
 ---
 
