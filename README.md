@@ -1,7 +1,6 @@
 # vollmerf
 
-Dr. Frederick W. Vollmer  
-Professor  
+Dr. Frederick W. Vollmer, Professor  
 Department of Geology, SUNY New Paltz 
 
 ---
