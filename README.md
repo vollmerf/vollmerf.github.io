@@ -10,7 +10,7 @@ I am a quantitative field-based structural geologist who is fascinated by the dy
 
 In the early 1980s I began using computers to quantify structural data sets, which consist of three dimensional orientations and locations of linear and planar elements, and the measurement of rock fabric and strain. Over decades the software evolved to address many additional problems of interest to field geologists, and to attach statistical significance to the analyses.
 
-As a professor at a primarily undergraduate institution, an additional objective is to make the software easy to use, approachable to students, and to allow data visualization, in addition to a definitive and reliable resource for researchers. The software is free, some is open source, with the goal to be completely open source. 
+As a professor at a primarily undergraduate institution, an additional objective is to make the software easy to use, approachable to students, and to allow data visualization, in addition to being a definitive and reliable resource for researchers. The software is free, some is open source, with the goal to be completely open source. 
 
 ---
 
