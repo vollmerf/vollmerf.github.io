@@ -3,6 +3,8 @@
 Dr. Frederick W. Vollmer, Professor  
 Department of Geology, SUNY New Paltz 
 
+![DocV](images/Craters.jpg)
+
 ---
 
 I am a quantitative field-based structural geologist who is fascinated by the dynamic processes of mountain building, faulting, folding, and rock deformation, processes driven by plate tectonics and manifested by uplift, earthquakes, and volcanism. 
@@ -21,7 +23,5 @@ As a professor at a primarily undergraduate institution, an additional objective
 [HyperContour](hypercontour/) - MATLAB/Octave code from Vollmer, 2018
 
 ---
-
-![DocV](images/Whitney.jpg)
 
 29 Jul 2020
