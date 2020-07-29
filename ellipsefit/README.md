@@ -1,8 +1,6 @@
 # EllipseFit
 Strain and Fabric Analysis Software
 
-![EllipseFit](images/EllipseFitIcon_128.png)
-
 ![Bygdin](images/Bygdin.jpg)
 
 ---

@@ -1,14 +1,11 @@
 # Orient 
-
-![Orient](images/OrientIcon_128.png)
-
 Spherical Data Analysis Software
 
 ![Noxon](images/Noxon.jpg)
 
 ---
 
-Orient is a fast, easy to use, professional spherical projection and directional data analysis program. Orient has been in development since 1986, when it introduced modified Kamb contouring, triangular fabric diagrams, and automated structural domain analysis. New tools include interactive data analysis, UTM conversion, digitizing, bootstrap statistics, cluster analysis, ternary plots, fault inversion, and file level integration with applications such as Microsoft Excel, LibreOffice, Adobe Illustrator, InkScape, CorelDRAW, StraboSpot, Global CMT Project, and Google Earth.
+Orient is an easy to use, professional spherical projection and directional data analysis program. Orient has been in development since 1986, when it introduced modified Kamb contouring, triangular fabric diagrams, and automated structural domain analysis. New tools include interactive data analysis, UTM conversion, digitizing, bootstrap statistics, cluster analysis, ternary plots, fault inversion, and file level integration with applications such as Microsoft Excel, LibreOffice, Adobe Illustrator, InkScape, CorelDRAW, StraboSpot, Global CMT Project, and Google Earth.
 
 Orient is for plotting and analyzing data that can be described by an axis or direction in space. Examples include bedding planes, faults and slip directions, fold axes, paleomagnetic vectors, glacial striations, current flow directions, crystallographic axes, earthquake epicenters, cosmic ray arrival directions, comet orbital planes, and animal migration paths. Orient has been written to apply to a wide variety data types, however many examples come from geology, which requires extensive manipulation and analysis of orientation data. Data input formats include longitude and latitude, azimuth and altitude, declination and inclination, trend and plunge, strike and dip, dip and dip direction, and others.
 
