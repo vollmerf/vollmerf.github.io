@@ -22,6 +22,4 @@ As a professor at a primarily undergraduate institution, an additional objective
 
 Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
 
----
-
 | 29 Jul 2020 |

@@ -29,6 +29,4 @@ The following are open source software. Citation should be given for their usage
 
 [Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)
 
----
-
 | 28 Jul 2020 |

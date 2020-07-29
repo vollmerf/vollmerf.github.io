@@ -72,9 +72,7 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 --- 
 
-[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)
-
----	
+[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)	
 
 | 28 July 2020 |
 
