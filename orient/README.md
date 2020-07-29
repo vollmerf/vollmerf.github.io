@@ -11,8 +11,7 @@ Orient is an easy to use, professional spherical projection and directional data
 
 Orient is for plotting and analyzing data that can be described by an axis or direction in space. Examples include bedding planes, faults and slip directions, fold axes, paleomagnetic vectors, glacial striations, current flow directions, crystallographic axes, earthquake epicenters, comet orbital planes, and animal migration paths. Orient can work with a wide variety data types, data input formats include longitude and latitude, azimuth and altitude, declination and inclination, trend and plunge, strike and dip, dip and dip direction, and others.
 
-![Paleomag](images/PaleoMag_200.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Folds](images/SPBearValley2_200.png)
+![Paleomag](images/PaleoMag.png) | ![Folds](images/BearValley.png)
 
 
 Spherical projection functionalities include:
