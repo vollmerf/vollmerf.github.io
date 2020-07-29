@@ -76,7 +76,9 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 --- 
 
+![Bygdin](images/Bygdin.jpg)
+
 [vollmerf home](../)
 
-18 July 2020
+29 July 2020
 

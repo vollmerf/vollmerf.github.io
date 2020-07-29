@@ -73,6 +73,8 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 --- 
 
+![Noxon](images/Noxon.jpg)
+
 [vollmerf home](../)
 
 18 July 2020
