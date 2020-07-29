@@ -13,8 +13,6 @@ Antevs is written by Frederick W. Vollmer. It is free software, but may not be r
 
 Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) for license and additional information.
 
----
-
 ## Example Correlation
 ![Example](images/Figure_04_web.png)
 
@@ -23,8 +21,6 @@ Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.c
 (B) Correlogram produced by cross-correlation of the detrended data. The correlogram shows a spike corresponding to a match at 0 years offset, with a correlation of r = 0.64, and significance t = 9.57.
 
 Modified from Rayburn and Vollmer, 2013.
-
----
 
 ## Antevs Downloads
 
@@ -54,5 +50,5 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 ---	
 
-28 July 2020
+_ 28 July 2020 |
 

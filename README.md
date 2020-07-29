@@ -11,8 +11,6 @@ In the early 1980s I began using computers to quantify structural data sets, whi
 
 As a professor at a primarily undergraduate institution, an additional objective is to make the software easy to use, approachable to students, and to allow data visualization, in addition to being a definitive and reliable resource for researchers. The software is free, some is open source, with the goal to be completely open source. 
 
----
-
 [Software](software/) - Free and open source software projects  
 [Orient](orient/) - Spherical Data Analysis Software  
 [EllipseFit](ellipsefit/) - Strain and Fabric Analysis Software  
@@ -26,4 +24,4 @@ Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [
 
 ---
 
-29 Jul 2020
+| 29 Jul 2020 |
