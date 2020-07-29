@@ -1,11 +1,11 @@
-# Antevs 
-Natural Time-Series Analysis Software
-
----
+--- 
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs	
 
 ---
+
+# Antevs 
+Natural Time-Series Analysis Software
 
 ![Antevs](../images/AntevsIcon.png)
 
