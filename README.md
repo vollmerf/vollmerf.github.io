@@ -22,6 +22,6 @@ As a professor at a primarily undergraduate institution, an additional objective
 
 ---
 
-![DocV](images/Noxon.jpg)
+![DocV](images/Whitney.jpg)
 
 29 Jul 2020
