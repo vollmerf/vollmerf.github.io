@@ -1,7 +1,5 @@
 # EllipseFit
-Strain and Fabric Analysis Software
-
----	
+Strain and Fabric Analysis Software	
 
 ![Bygdin](images/Bygdin.jpg)
 
@@ -83,6 +81,8 @@ sha256 file checksums are provided in case you or you network administrator desi
 --- 
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | EllipseFit | [Antevs](../antevs/)
+
+---
 
 29 July 2020
 

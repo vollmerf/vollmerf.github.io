@@ -1,8 +1,6 @@
 Dr. Frederick W. Vollmer, Professor  
 Department of Geology, SUNY New Paltz 
 
----
-
 ![DocV](images/Craters.jpg)
 
 ---
@@ -25,5 +23,7 @@ As a professor at a primarily undergraduate institution, an additional objective
 ---
 
 Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
+
+---
 
 29 Jul 2020

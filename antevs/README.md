@@ -1,8 +1,6 @@
 # Antevs 
 Natural Time-Series Analysis Software
 
----
-
 ![Antevs](../images/AntevsIcon.png)
 
 Antevs is a user friendly professional tool for correlating natural time-series. These arise where a value is measured through time at discrete intervals. Annual intervals commonly occur in natural systems due to seasonal variations in temperature, as displayed in proglacial varves, tree-rings, and glacial ice. Correlation is done by comparing an undated times-series to a previously dated chronology.
@@ -52,7 +50,9 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 ---
 
-[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs	
+[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs
+
+---	
 
 28 July 2020
 
