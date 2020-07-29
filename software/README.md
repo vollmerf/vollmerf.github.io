@@ -8,19 +8,19 @@ The following software is free, with the stipulation that citation be given for 
 
 ---
 
-![Orient](../images/Orient3_128n.png)
+![Orient](../images/OrientIcon.png)
 
 [Orient](../orient/) is for analyzing data that can be described by an axis or direction, or by a position on a sphere. Examples include latitude and longitude, star locations, bedding planes, fold axes, fault slip directions, paleomagnetic vectors, glacial striations, crystallographic axes, current flow directions, and animal migration paths.
 
 ---
 
-![EllipseFit](../images/EllipseFitIcon_128.png)
+![EllipseFit](../images/EllipseFitIcon.png)
 
 [EllipseFit](../ellipsefit/) is an integrated program for two and three-dimensional geologic fabric and finite strain analysis. It includes routines to digitize and analyze collections of points, lines, ellipses, and shapes to determine mean fabric and finite strain ellipses from oriented photographs.
 
 ---
 
-![Antevs](../images/AntevsIcon_128.png)
+![Antevs](../images/AntevsIcon.png)
 
 [Antevs](../antevs/) is a program for analyzing varve, tree-ring, and other time-series data. Fourier analysis, and other curve fitting algorithms, are used to remove trends and to normalize the data for comparison. The resulting data series are correlated using cross-correlation techniques to identify potential matches. 
 
