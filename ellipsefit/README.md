@@ -1,11 +1,10 @@
 # EllipseFit 
+![EllipseFit](images/EllipseFitIcon_128.png)
 Strain and Fabric Analysis Software
 
 ![Bygdin](images/Bygdin.jpg)
 
 ---
-
-![EllipseFit](images/EllipseFitIcon_128.png)
 
 EllipseFit is an integrated program for geologic fabric and finite strain analysis. It is used to derive two and three-dimensional strain from oriented photographs of thin sections, hand samples, or outcrop surfaces, and is designed for laboratory and field based structural geology studies. The intuitive graphical interface and multi-platform deployment also make it ideal for teaching introductory or advanced structural geology laboratories.
 
