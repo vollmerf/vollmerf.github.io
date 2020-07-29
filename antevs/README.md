@@ -14,7 +14,7 @@ Antevs is written by Frederick W. Vollmer. It is free software, but may not be r
 Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) for license and additional information.
 
 ## Example Correlation
-![Example](images/Figure_04_web.png)
+| ![Example](images/Figure_04_web.png) |
 
 (A) Hudson and Connecticut River Valley raw (top) and detrended (bottom) North American Varve Chronology (NAVC) data. The raw data is detrended using a 16 term Fourier filter to remove long wavelength variations, and standardized to account for thickness variations between proxmal and distal varves.
 
