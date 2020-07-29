@@ -50,6 +50,8 @@ Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does
 
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 
+---
+
 ## Orient Downloads
 
 The current version of Orient is 3.12.0.

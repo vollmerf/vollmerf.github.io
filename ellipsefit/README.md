@@ -42,6 +42,8 @@ Please read the accompanying [EllipseFit User Manual](https://www.frederickvollm
 
 ![Nadai](images/Nadai_200.png) | ![Shade](images/Shade_200.png)
 
+---
+
 ## EllipseFit Downloads
 
 The current version of EllipseFit is 3.8.0.
