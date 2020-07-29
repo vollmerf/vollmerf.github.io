@@ -1,4 +1,3 @@
-# vollmerf
 Dr. Frederick W. Vollmer, Professor  
 Department of Geology, SUNY New Paltz 
 
@@ -15,7 +14,6 @@ As a professor at a primarily undergraduate institution, an additional objective
 ---
 
 [Software](software/) - Free and open source software projects  
-![Orient](images/OrientIcon.png)
 [Orient](orient/) - Spherical Data Analysis Software  
 [EllipseFit](ellipsefit/) - Strain and Fabric Analysis Software  
 [Antevs](antevs/) - Natural Time-Series Analysis Software  
