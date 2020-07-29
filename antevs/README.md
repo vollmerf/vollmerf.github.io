@@ -1,11 +1,7 @@
---- 
-
-[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs	
-
----
-
 # Antevs 
 Natural Time-Series Analysis Software
+
+---
 
 ![Antevs](../images/AntevsIcon.png)
 
@@ -54,9 +50,9 @@ sha256 file checksums are provided in case you or you network administrator desi
 * [Macintosh 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Mac.dmg.sha256) 
 * [Windows 1.5.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.5.0_Win.zip.sha256) 
 
---- 
+---
 
-[vollmerf home](../)
+[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs	
 
-18 July 2020
+28 July 2020
 

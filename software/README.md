@@ -1,13 +1,4 @@
-# vollmerf
-
----
-
-[Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)
-
----
-
 # Software
-
 Software projects written and maintained by Frederick W. Vollmer.
 
 ## Free Software
@@ -43,5 +34,7 @@ The following are open source software. Citation should be given for their usage
 [HyperContour](../hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
 
 ---
+
+[Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)
 
 28 Jul 2020

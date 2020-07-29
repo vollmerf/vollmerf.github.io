@@ -3,10 +3,6 @@ Department of Geology, SUNY New Paltz
 
 ---
 
-Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
-
----
-
 ![DocV](images/Craters.jpg)
 
 ---
@@ -27,5 +23,7 @@ As a professor at a primarily undergraduate institution, an additional objective
 [HyperContour](hypercontour/) - MATLAB/Octave code from Vollmer, 2018
 
 ---
+
+Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
 
 29 Jul 2020

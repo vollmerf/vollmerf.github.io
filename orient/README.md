@@ -3,8 +3,6 @@ Spherical Data Analysis Software
 
 ---
 
-[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)	
-
 ![Noxon](images/Noxon.jpg)
 
 ---
@@ -81,7 +79,7 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 --- 
 
-[vollmerf home](../)
+[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)	
 
-18 July 2020
+28 July 2020
 
