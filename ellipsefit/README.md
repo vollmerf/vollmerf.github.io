@@ -1,7 +1,11 @@
 # EllipseFit
 Strain and Fabric Analysis Software
 
-[Home](../) | [Software](../software/) | [Orient](../orient/) | EllipseFit | [Antevs](../antevs/)	
+---
+
+[Home](../) | [Software](../software/) | [Orient](../orient/) | EllipseFit | [Antevs](../antevs/)
+
+---	
 
 ![Bygdin](images/Bygdin.jpg)
 

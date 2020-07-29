@@ -1,6 +1,12 @@
 # vollmerf
 
-[Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)	
+---
+
+[Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/)
+
+---
+
+# Software
 
 Software projects written and maintained by Frederick W. Vollmer.
 
