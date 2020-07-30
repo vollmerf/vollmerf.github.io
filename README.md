@@ -1,5 +1,5 @@
-### Dr. Frederick W. Vollmer, Professor  
-### Department of Geology, SUNY New Paltz 
+Dr. Frederick W. Vollmer, Professor  
+Department of Geology, SUNY New Paltz 
 
 ![DocV](images/Craters.jpg)
 
