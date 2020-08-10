@@ -25,7 +25,7 @@ The following are open source software. Citation should be given for their usage
 
 [HyperContour](../hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
 
-[TriFabPlot](../trifabplot/) MATLAB script for plotting directional data orientation tensors of CPO, fabric and finite strain data, including contours of density and intensity indexes. 
+[TriFabPlot](https://github.com/vollmerf/trifabplot/README.md) MATLAB script for plotting directional data orientation tensors of CPO, fabric and finite strain data, including contours of density and intensity indexes. 
 
 ---
 
