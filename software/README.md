@@ -21,9 +21,9 @@ The following software is free, with the stipulation that citation be given for 
 
 The following are open source software. Citation should be given for their usage, see the accompanying CITATION.md files. 
 
-[SphereContour](../spherecontour/) C, Pascal, and MATLAB/Octave versions of a program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
+[SphereContour](../spherecontour/) C, Pascal, and MATLAB versions of a program for automatic contouring of spherical orientation data using a modified Kamb method to create spherical projections including Schmidt (equal-area) and stereographic (equal-angle) plots. 
 
-[HyperContour](../hypercontour/) MATLAB/Octave script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
+[HyperContour](../hypercontour/) MATLAB script for contouring geologic fabric and finite strain data on the unit hyperboloid, including Rf/phi, Elliott polar, and equal-area fabric plots. 
 
 [TriFabPlot](../trifabplot/) MATLAB script for plotting directional data orientation tensors of CPO, fabric and finite strain data, including contours of density and intensity indexes. 
 
