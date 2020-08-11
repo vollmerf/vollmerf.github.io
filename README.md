@@ -15,11 +15,15 @@ As a professor at a primarily undergraduate institution, an additional objective
 [Orient](orient/) - Spherical Data Analysis Software  
 [EllipseFit](ellipsefit/) - Strain and Fabric Analysis Software  
 [Antevs](antevs/) - Natural Time-Series Analysis Software  
-[SphereContour](spherecontour/) - MATLAB/Octave, C, and Pascal code from Vollmer, 1995  
-[HyperContour](hypercontour/) - MATLAB/Octave code from Vollmer, 2018
+
+---
+
+[SphereContour](spherecontour/) - MATLAB, C, and Pascal code from Vollmer, 1995  
+[HyperContour](hypercontour/) - MATLAB code from Vollmer, 2018
+[TriFabPlot](trifabplot/) - MATLAB code from Vollmer, 2020
 
 ---
 
 Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
 
-| 29 Jul 2020 |
+| 10 Aug 2020 |
