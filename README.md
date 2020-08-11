@@ -17,7 +17,7 @@ As a professor at a primarily undergraduate institution, an additional objective
 [Antevs](antevs/) - Natural Time-Series Analysis Software  
 [SphereContour](spherecontour/) - MATLAB, C, and Pascal code from Vollmer, 1995  
 [HyperContour](hypercontour/) - MATLAB code from Vollmer, 2018  
-[TriFabPlot](trifabplot/) - MATLAB code from Vollmer, 2020
+[TriFabPlot](trifabplot/) - MATLAB code from Vollmer, 1989, 1990, 2020
 
 ---
 
