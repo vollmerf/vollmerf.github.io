@@ -1,7 +1,7 @@
 Dr. Frederick W. Vollmer  
 Professor, Structural Geology
 
-![DocV](../images/Craters.jpg)
+![DocV](images/Craters.jpg)
 
 ---
 
@@ -21,6 +21,6 @@ As a professor at a primarily undergraduate institution, an additional objective
 
 ---
 
-Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/) [Donate](donate/)
+Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/) | [Donate](donate/)
 
 | 10 Aug 2020 |

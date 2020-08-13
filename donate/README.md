@@ -1,7 +1,7 @@
 Dr. Frederick W. Vollmer  
 Professor, Structural Geology
 
-![DocV](images/Craters.jpg)
+![DocV](../images/Craters.jpg)
 
 ---
 
@@ -13,34 +13,7 @@ The software has thousands of users at academic institutions, public and private
 
 While the software is <i>free</i>, I greatly appreciate donations. Donations are used to defray costs of software development and website hosting, and allow me to continue offering free software. The PayPal link below allows a secure donation to be made in US dollars. You do not need a PayPal account for a one time donation, an account is required to make monthly donations. 
 
-<!---
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="SQSR3MW6ARE42" />
-<input type="hidden" name="item_name" value="Doc V Software Project" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
---->
-
-<!---
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="SQSR3MW6ARE42" />
-<input type="hidden" name="item_name" value="Doc V Software Project" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
---->
-
-<!---
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=SQSR3MW6ARE42)
---->
-
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/vollmerf)
-
-<!---[paypal](paypal.me/vollmerf)--->
 
 ---
 <sub><sup>
