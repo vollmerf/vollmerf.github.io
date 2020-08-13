@@ -21,6 +21,6 @@ Legal notice: By making a donation to the Doc V Software Project you signify tha
 </sup></sub>
 ---
 
-Home | [Software](software/) | [Orient](orient/) | [EllipseFit](ellipsefit/) | [Antevs](antevs/)
+[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | Donate
 
-| 10 Aug 2020 |
+| 13 Aug 2020 |
