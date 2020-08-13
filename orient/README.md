@@ -46,7 +46,7 @@ Additional functionalities include:
 
 Orient is written by Frederick W. Vollmer. It is free, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
-Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. 
+Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. If you find the software useful, please consider making a donation to support its continued development. 
 
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 

@@ -9,7 +9,9 @@ Antevs was developed for the correlation of proglacial varve sequences (Rayburn 
 
 Antevs undergoes extensive testing by varve and tree-ring researchers, including undergraduates, working in John Rayburn's varve and tree-ring laboratory at SUNY New Paltz. Antevs is compiled natively for Macintosh, Windows, and Linux, and does not require any additional libraries or interpreters. 
 
-Antevs is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
+Antevs is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.
+
+Antevs is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. If you find the software useful, please consider making a donation to support its continued development.  
 
 Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) for license and additional information.
 
