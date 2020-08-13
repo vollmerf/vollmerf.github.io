@@ -3,7 +3,7 @@ Software projects written and maintained by Frederick W. Vollmer.
 
 ## Free Software
 
-The following software is free, with the stipulation that citation be given for usage as noted in the user manuals. These are available in compiled form for Windows, macOS, and Linux platforms. If you find the software useful, please consider making a donation to support its continued development.
+The following software is free, with the stipulation that citation be given for usage as noted in the user manuals. These are available in compiled form for Windows, macOS, and Linux platforms. If you find the software useful, please consider making a [donation](../donate/) to support its continued development.
 
 ![Orient](../images/OrientIcon.png)
 
