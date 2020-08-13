@@ -1,4 +1,4 @@
-Dr. Frederick W. Vollmer
+Dr. Frederick W. Vollmer  
 Professor, Structural Geology
 
 ![DocV](images/Craters.jpg)
