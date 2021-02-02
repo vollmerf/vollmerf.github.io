@@ -58,7 +58,7 @@ Please read the accompanying [Orient User Manual](https://www.frederickvollmer.c
 
 The current version of Orient is 3.13.0.
 
-* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tgz)
+* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tar.gz)
 * [Macintosh 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Mac.dmg)
 * [Windows 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Win.zip) 
 
@@ -66,7 +66,7 @@ The current version of Orient is 3.13.0.
 
 sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
-* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tgz.sha256) 
+* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tar.gz.sha256) 
 * [Macintosh 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Mac.dmg.sha256) 
 * [Windows 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Win.zip.sha256) 
 
