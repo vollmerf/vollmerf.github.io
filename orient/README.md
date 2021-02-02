@@ -25,7 +25,8 @@ Spherical projection functionalities include:
 * Fisher, Kent, Watson, and Bingham cones
 * Bootstrap cones and statistics
 * Data, net, and projection rotations
-* Conical data fitting with statistics
+* Circular cone fitting with statistics
+* Elliptical cone fitting with statistics
 * Kinematic and dynamic fault analysis
 * Axis, vector, and girdle cluster analysis
 
@@ -34,6 +35,7 @@ Additional functionalities include:
 * Circular histograms and frequency polygons
 * Triangular eigenvector PGR fabric plots
 * UTM, latitude, longitude conversions
+* Frame statistics and rotation plots
 * Digitizing directional data
 * Fault quarter dip and rake histograms
 * Fault moment tensor triangle plots
@@ -54,19 +56,19 @@ Please read the accompanying [Orient User Manual](https://www.frederickvollmer.c
 
 ## Orient Downloads
 
-The current version of Orient is 3.12.0.
+The current version of Orient is 3.13.0.
 
-* [Linux 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz)
-* [Macintosh 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg)
-* [Windows 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip) 
+* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tgz)
+* [Macintosh 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Mac.dmg)
+* [Windows 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Win.zip) 
 
 ## Orient sha256
 
 sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
-* [Linux 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Lin.tgz.sha256) 
-* [Macintosh 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Mac.dmg.sha256) 
-* [Windows 3.12.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.12.0_Win.zip.sha256) 
+* [Linux 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Lin.tgz.sha256) 
+* [Macintosh 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Mac.dmg.sha256) 
+* [Windows 3.13.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.13.0_Win.zip.sha256) 
 
 ![Cluster](images/SPKambCluster_200.png) | ![Faults](images/Fig01-04_200.png)
 
