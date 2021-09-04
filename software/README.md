@@ -17,7 +17,7 @@ The following software is free, with the stipulation that citation be given for 
 
 [Antevs](../antevs/) is a program for analyzing varve, tree-ring, and other time-series data. Fourier analysis, and other curve fitting algorithms, are used to remove trends and to normalize the data for comparison. The resulting data series are correlated using cross-correlation techniques to identify potential matches. 
 
-## Open Scripts and Code
+## Open Source Code
 
 The following are open source software. Citation should be given for their usage, see the accompanying CITATION.md files. 
 
@@ -31,4 +31,4 @@ The following are open source software. Citation should be given for their usage
 
 [Home](../) | Software | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | [Donate](../donate/)
 
-| 28 Jul 2020 |
+| 4 Sep 2021 |
