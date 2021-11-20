@@ -48,23 +48,23 @@ Please read the accompanying [EllipseFit User Manual](https://www.frederickvollm
 
 ## EllipseFit Downloads
 
-The current version of EllipseFit is 3.8.1.
+The current version of EllipseFit is 3.8.2.
 
-* [Linux 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.1_Lin.tar.gz)
-* [Macintosh 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.1_Mac.dmg)
-* [Windows 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.1_Win.zip) 
+* [Linux 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Lin.tar.gz)
+* [Macintosh 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Mac.dmg)
+* [Windows 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Win.zip) 
 
 ## EllipseFit sha256
 
 sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
 
-* [Linux 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.1_Lin.tar.gz.sha256) 
-* [Macintosh 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Mac.dmg.sha256) 
-* [Windows 3.8.1](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.0_Win.zip.sha256) 
+* [Linux 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Lin.tar.gz.sha256) 
+* [Macintosh 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Mac.dmg.sha256) 
+* [Windows 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Win.zip.sha256) 
 
 --- 
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | EllipseFit | [Antevs](../antevs/) | [Donate](../donate/)
 
-| 6 Sep 2021 |
+| 20 Nov 2021 |
 
