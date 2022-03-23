@@ -56,7 +56,7 @@ Please read the accompanying [Orient User Manual](https://www.frederickvollmer.c
 
 ## Orient Downloads
 
-The current version of Orient is 3.14.0.
+The current version of Orient.
 
 * [Linux 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Lin.tar.gz)
 * [Macintosh 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac.dmg)
