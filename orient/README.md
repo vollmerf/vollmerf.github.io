@@ -72,7 +72,7 @@ sha256 file checksums are provided in case you or you network administrator desi
 * [Macintosh M1 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac-Arm.dmg.sha256) 
 * [Windows 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Win.zip.sha256) 
 
-![Cluster](images/SPKambCluster_200.png) | ![Faults](images/Fig01-04_200.png)
+![Cluster](images/SMCluster_200.png) | ![Faults](images/AKine_200.png)
 
 --- 
 
