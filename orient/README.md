@@ -60,6 +60,7 @@ The current version of Orient.
 
 * [Linux 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Lin.tar.gz)
 * [Macintosh 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac.dmg)
+* [Macintosh 3.15.0 M1](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac-Arm.dmg)
 * [Windows 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Win.zip) 
 
 ## Orient sha256
@@ -68,6 +69,7 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 * [Linux 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Lin.tar.gz.sha256) 
 * [Macintosh 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac.dmg.sha256) 
+* [Macintosh 3.15.0 M1](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac-Arm.dmg.sha256) 
 * [Windows 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Win.zip.sha256) 
 
 ![Cluster](images/SPKambCluster_200.png) | ![Faults](images/Fig01-04_200.png)
@@ -76,5 +78,5 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 [Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | [Donate](../donate/)	
 
-| 23 Mar 2022 |
+| 28 Mar 2022 |
 
