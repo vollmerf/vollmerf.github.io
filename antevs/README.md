@@ -30,10 +30,17 @@ Modified from Rayburn and Vollmer, 2013.
 
 The current version of Antevs is 1.7.0.
 
-* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Lin.tar.gz)
+* [Linux Ubuntu](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Lin.tar.gz)
 * [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac.dmg)
 * [Macintosh M1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac-ARM.dmg)
-* [Windows 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Win.zip)
+* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Win.zip)
+* [User Manual](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_User_Manual.pdf)
+
+The previous version of Antevs is 1.6.1.
+
+* [Linux Ubuntu](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Lin.tar.gz)
+* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Mac.dmg)
+* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Win.zip)
 
 ---
 
