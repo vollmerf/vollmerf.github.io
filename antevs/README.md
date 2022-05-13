@@ -28,23 +28,16 @@ Modified from Rayburn and Vollmer, 2013.
 
 ## Antevs Downloads
 
-The current version of Antevs is 1.6.1.
+The current version of Antevs is 1.7.0.
 
-* [Linux 1.6.0](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Lin.tar.gz)
-* [Macintosh 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Mac.dmg)
-* [Windows 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Win.zip)
-
-## Antevs sha256
-
-sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
-
-* [Linux 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Lin.tar.gz.sha256) 
-* [Macintosh 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Mac.dmg.sha256) 
-* [Windows 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Win.zip.sha256) 
+* [Linux](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Lin.tar.gz)
+* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac.dmg)
+* [Macintosh M1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac-ARM.dmg)
+* [Windows 1.6.1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Win.zip)
 
 ---
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs | [Donate](../donate/)	
 
-| 6 Sep 2021 |
+| 13 May 2022 |
 
