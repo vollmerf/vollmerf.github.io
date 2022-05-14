@@ -28,7 +28,8 @@ Modified from Rayburn and Vollmer, 2013.
 
 ## Antevs Downloads
 
-* Antev downloads are hosted at FrederickVollmer.com [Antevs](http://www.frederickvollmer.com/antevs/)
+* Antev downloads are hosted on [FrederickVollmer.com](http://www.frederickvollmer.com)
+[Antevs](http://www.frederickvollmer.com/antevs/)
 
 ---
 
