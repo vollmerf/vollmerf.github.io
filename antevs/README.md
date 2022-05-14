@@ -28,23 +28,11 @@ Modified from Rayburn and Vollmer, 2013.
 
 ## Antevs Downloads
 
-The current version of Antevs is 1.7.0.
-
-* [Linux Ubuntu](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Lin.tar.gz)
-* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac.dmg)
-* [Macintosh M1](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Mac-ARM.dmg)
-* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.7.0_Win.zip)
-* [User Manual](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_User_Manual.pdf)
-
-The previous version of Antevs is 1.6.1.
-
-* [Linux Ubuntu](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Lin.tar.gz)
-* [Macintosh](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Mac.dmg)
-* [Windows](http://www.frederickvollmer.com/antevs/download.php?file=Antevs_1.6.1_Win.zip)
+* Antev downloads are hosted at FrederickVollmer.com [Antevs](http://www.frederickvollmer.com/antevs/)
 
 ---
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | Antevs | [Donate](../donate/)	
 
-| 13 May 2022 |
+| 14 May 2022 |
 
