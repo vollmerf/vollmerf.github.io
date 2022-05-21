@@ -38,7 +38,7 @@ EllipseFit functionalities include:
 
 EllipseFit is written by Frederick W. Vollmer. It is free software, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
-EllipseFit is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. If you find the software useful, please consider making a [donation](../donate/) to support its continued development. 
+EllipseFit is compiled natively on Macintosh, Windows, and Linux Ubuntu platforms, and does not require any additional components or installations. If you find the software useful, please consider making a [donation](../donate/) to support its continued development. 
 
 Please read the accompanying [EllipseFit User Manual](https://www.frederickvollmer.com/ellipsefit/download/EllipseFit_User_Manual.pdf) for license and additional information.
 
@@ -48,23 +48,11 @@ Please read the accompanying [EllipseFit User Manual](https://www.frederickvollm
 
 ## EllipseFit Downloads
 
-The current version of EllipseFit is 3.8.2.
-
-* [Linux 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Lin.tar.gz)
-* [Macintosh 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Mac.dmg)
-* [Windows 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Win.zip) 
-
-## EllipseFit sha256
-
-sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
-
-* [Linux 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Lin.tar.gz.sha256) 
-* [Macintosh 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Mac.dmg.sha256) 
-* [Windows 3.8.2](http://www.frederickvollmer.com/ellipsefit/download.php?file=EllipseFit_3.8.2_Win.zip.sha256) 
+* EllipseFit downloads are hosted on [FrederickVollmer.com](http://www.frederickvollmer.com) and [vollmerf.com](http://www.vollmerf.com)
 
 --- 
 
 [Home](../) | [Software](../software/) | [Orient](../orient/) | EllipseFit | [Antevs](../antevs/) | [Donate](../donate/)
 
-| 20 Nov 2021 |
+| 21 May 2022 |
 

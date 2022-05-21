@@ -48,7 +48,7 @@ Additional functionalities include:
 
 Orient is written by Frederick W. Vollmer. It is free, but may not be redistributed or posted online without the author's permission. Any significant usage, such as a resulting presentation or publication, must include attribution. This program is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
-Orient is compiled natively on Macintosh, Windows, and Linux platforms, and does not require any additional components or installations. If you find the software useful, please consider making a [donation](../donate/) to support its continued development. 
+Orient is compiled natively on Macintosh, Windows, and Linux Ubuntu platforms, and does not require any additional components or installations. If you find the software useful, please consider making a [donation](../donate/) to support its continued development. 
 
 Please read the accompanying [Orient User Manual](https://www.frederickvollmer.com/orient/download/Orient_User_Manual.pdf) for license and additional information.
 
@@ -56,21 +56,9 @@ Please read the accompanying [Orient User Manual](https://www.frederickvollmer.c
 
 ## Orient Downloads
 
-The current version of Orient.
+* Orient downloads are hosted on [FrederickVollmer.com](http://www.frederickvollmer.com) and [vollmerf.com](http://www.vollmerf.com)
 
-* [Linux 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Lin.tar.gz)
-* [Macintosh 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac.dmg)
-* [Macintosh M1 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac-Arm.dmg)
-* [Windows 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Win.zip) 
-
-## Orient sha256
-
-sha256 file checksums are provided in case you or you network administrator desire to verify the integrity of the downloaded files. 
-
-* [Linux 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Lin.tar.gz.sha256) 
-* [Macintosh 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac.dmg.sha256) 
-* [Macintosh M1 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Mac-Arm.dmg.sha256) 
-* [Windows 3.15.0](http://www.frederickvollmer.com/orient/download.php?file=Orient_3.15.0_Win.zip.sha256) 
+---
 
 ![Cluster](images/SMCluster_200.png) | ![Faults](images/AKine_200.png)
 
@@ -78,5 +66,4 @@ sha256 file checksums are provided in case you or you network administrator desi
 
 [Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | [Donate](../donate/)	
 
-| 28 Mar 2022 |
-
+| 21 May 2022 |
