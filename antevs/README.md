@@ -13,6 +13,8 @@ Antevs is written by Frederick W. Vollmer. It is free software, but may not be r
 
 Antevs is compiled natively on Macintosh, Windows, and Linux Ubuntu platforms, and does not require any additional components or installations. If you find the software useful, please consider making a [donation](../donate/) to support its continued development.  
 
+Please read the accompanying [Antevs User Manual](https://www.frederickvollmer.com/antevs/download/Antevs_User_Manual.pdf) for license and additional information.
+
 ## Example Correlation
 ![Example](images/Figure_04_web.png)
 
