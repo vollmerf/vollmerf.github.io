@@ -60,10 +60,10 @@ Please read the accompanying [Orient User Manual](https://www.frederickvollmer.c
 
 ---
 
-![Cluster](images/SMCluster_200.png) | ![Faults](images/AKine_200.png)
+![Rose](images/Gould_200.png) | ![Faults](images/AKine_200.png)
 
 --- 
 
 [Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | [Donate](../donate/)	
 
-| 21 May 2022 |
+| 20 Jan 2023 |
