@@ -37,6 +37,6 @@ Please cite the usage of this or derivative software using:
 
 --- 
 
-[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
+[Home](../) | [Software](../software/) | [Orient](../orient) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
 
 | 12 Feb 2023 |
