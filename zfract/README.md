@@ -1,6 +1,7 @@
-# ZFract - Fractal Visualization Software 
+# ZFract
+Fractal Visualization Software 
 
-![ZFract](images/julia.png)
+![Julia](images/julia.png)
 
 ---
 
@@ -33,3 +34,9 @@ Please cite the usage of this or derivative software using:
 ## Acknowledgements
 * Inspired by A.K. Dewdney's August 1985 Computer Recreations column in Scientific American, p. 16-24. 
 * Thanks to the Free Pascal, Lazarus, and BGRABitmap developers.
+
+--- 
+
+[Home](../) | [Software](../software/) | Orient | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
+
+| 12 Feb 2023 |
