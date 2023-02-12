@@ -28,8 +28,6 @@ Please cite the usage of this or derivative software using:
 
 * [vollmerf home](https://vollmerf.github.io/)
 * [vollmerf repositories](https://github.com/vollmerf)
-* [Free Pascal/Lazarus](https://www.lazarus-ide.org/)
-* [BGRABitmap](https://github.com/bgrabitmap)
 
 ## Acknowledgements
 * Inspired by A.K. Dewdney's August 1985 Computer Recreations column in Scientific American, p. 16-24. 
@@ -37,6 +35,6 @@ Please cite the usage of this or derivative software using:
 
 --- 
 
-[Home](../) | [Software](../software/) | [Orient](../orient) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
+[Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
 
 | 12 Feb 2023 |
