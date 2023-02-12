@@ -16,8 +16,8 @@ Orient is for plotting and analyzing data that can be described by an axis or di
 
 Spherical projection functionalities include:
 
-* Schmidt net, equal-area projection
-* Stereonet, equal angle projection
+* Schmidt net (equal-area) projection
+* Stereonet (equal angle) projection
 * Upper, lower, and dual hemisphere 
 * Modified Kamb contouring 
 * Density, MUD, and probability contours
