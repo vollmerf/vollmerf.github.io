@@ -21,7 +21,7 @@ You should have received a copy of the GNU General Public License along with ZFr
 ## Citation
 Please cite the usage of this or derivative software using: 
 
-* Vollmer, F.W., 2023. ZFract: Fractal Visualization Software.
+* Vollmer, F.W., 2023. ZFract: Fractal Visualization Software. https://github.com/vollmerf/zfract
 
 ## Links
 
