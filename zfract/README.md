@@ -33,13 +33,13 @@ Please cite the usage of this or derivative software using:
 
 --- 
 
-![Julia2](images/julia2.png)
-
----
-
 ## Acknowledgements
 * Inspired by A.K. Dewdney's August 1985 Computer Recreations column in Scientific American, p. 16-24. 
 * Thanks to the Free Pascal, Lazarus, and BGRABitmap developers.
+
+---
+
+![Julia2](images/julia2.png)
 
 ---
 
