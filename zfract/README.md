@@ -11,10 +11,6 @@ ZFract is a fast compact open source fractal image generator for Mandlebrot and 
 
 Coloring the image is done using a selected color palette. Each pixel represents a complex number, and is colored using the escape count. ZFract has a help command which displays a page on usage, commands, and settings. The source of the help text is in the file "help.inc".
 
---- 
-
-![Julia2](images/julia2.png)
-
 ---
 
 ## License ##
@@ -34,6 +30,12 @@ Please cite the usage of this or derivative software using:
 
 * [vollmerf home](https://vollmerf.github.io/)
 * [vollmerf repositories](https://github.com/vollmerf)
+
+--- 
+
+![Julia2](images/julia2.png)
+
+---
 
 ## Acknowledgements
 * Inspired by A.K. Dewdney's August 1985 Computer Recreations column in Scientific American, p. 16-24. 
