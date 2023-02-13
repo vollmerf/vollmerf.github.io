@@ -35,6 +35,10 @@ Please cite the usage of this or derivative software using:
 
 --- 
 
+![Julia](images/julia2.png)
+
+---
+
 [Home](../) | [Software](../software/) | [Orient](../orient/) | [EllipseFit](../ellipsefit/) | [Antevs](../antevs/) | ZFract | [Donate](../donate/)	
 
 | 12 Feb 2023 |

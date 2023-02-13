@@ -1,0 +1,24 @@
+App: ZFract
+Version: 1.0
+Author: F.W. Vollmer
+Copyright: 2022-2023 F.W. Vollmer
+CrMin:  9.3297806658018734E-001
+CiMin: -6.0245564428360002E-002
+CrWidth:  3.9923515791050678E-004
+CiHeight:  3.9923515791050678E-004
+CrCenter:  9.3317768415914260E-001
+CiCenter: -6.0045946849404751E-002
+PxWidth: 600
+PyHeight: 600
+MaxCount: 256
+SigmaCount: 2
+ColorModel: Histogram
+HueDeg: 0
+HueAngleDeg: 0
+HueCount: 12
+JuliaOn: TRUE
+JuliaR: -7.4561227399999996E-001
+JuliaI:  1.2866905100000001E-001
+ColorPalette: Sinusoid
+InvertOn: TRUE
+SphereOn: TRUE
