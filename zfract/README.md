@@ -7,7 +7,7 @@ Fractal Visualization Software
 
 ![ZFract](../images/ZFractIcon.png)
 
-ZFract is a fast compact open source fractal image generator for Mandlebrot and Julia sets. These sets exist in the complex number plane, represented with real components on the X axis, and imaginary components on the Y axis. Inclusion within a set is defined by an iterative equation, f(z) = z*z + c, that does not diverge to infinity. Points outside a set have an escape count, the number of iterations required to diverge, a measure of closeness to the set.
+ZFract is a fast compact open source fractal image generator for Mandlebrot and Julia sets. These sets exist in the complex number plane, represented with real components on the X axis, and imaginary components on the Y axis. Inclusion within a set is defined by an iterative equation, f(z) = z² + c, that does not diverge to infinity. Points outside a set have an escape count, the number of iterations required to diverge, a measure of closeness to the set.
 
 Coloring the image is done using a selected color palette. Each pixel represents a complex number, and is colored using the escape count. ZFract has a help command which displays a page on usage, commands, and settings. The source of the help text is in the file "help.inc".
 
