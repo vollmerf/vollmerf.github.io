@@ -1,4 +1,4 @@
-# ZFract #
+# ZFract
 Fractal Visualization Software 
 
 ![Julia1](images/julia1.png)
@@ -13,7 +13,7 @@ Coloring the image is done using a selected color palette. Each pixel represents
 
 ---
 
-## License ##
+## License
 
 ZFract is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
@@ -21,12 +21,12 @@ ZFract is distributed in the hope that it will be useful, but WITHOUT ANY WARRAN
 
 You should have received a copy of the GNU General Public License along with ZFract, if not, see <https://www.gnu.org/licenses/>.
 
-## Citation ##
+## Citation 
 Please cite the usage of this or derivative software using: 
 
 * Vollmer, F.W., 2023. ZFract: Fractal Visualization Software. https://github.com/vollmerf/zfract
 
-## Links ##
+## Links 
 
 * [vollmerf home](https://vollmerf.github.io/)
 * [vollmerf repositories](https://github.com/vollmerf)
